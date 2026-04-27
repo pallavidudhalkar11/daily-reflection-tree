@@ -110,4 +110,26 @@ python main.py
 
 This project demonstrates a **deterministic, transparent, and reliable decision-making system** for daily reflection while maintaining strict control over ambiguity and AI hallucination.
 
+## 🧠 Design Thinking
+
+* Focused on **deterministic logic over AI dependency**
+* Prioritized **clarity and explainability**
+* Avoided ambiguity and subjective interpretation
+* Ensured **same input → same output**
+
+---
+
+## ⚠️ Limitations
+
+* Limited input parameters
+* Does not capture complex emotional states
+* Rule-based system may need expansion for real-world use
+
+---
+
+## 🚀 Future Improvements
+
+* Add more input dimensions (sleep, energy, focus)
+* Build a UI for better usability
+* Integrate safe AI suggestions layer
 
